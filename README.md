@@ -19,11 +19,11 @@
   
 ## Technical paper
 ### Indexing
-- [By year]((#Year))
+- [By year](#Year)
 - By object
 - By method
 
-<a name="Year2"></a>
+<a name="Year"></a>
 ### By Year
 - **ASE 2022**
   - [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing]
