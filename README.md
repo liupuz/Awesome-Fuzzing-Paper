@@ -20,8 +20,8 @@
 ## Technical paper
 ### Indexing
 - [By year](#Year)
-- By object
-- By method
+- [By object](#object)
+- [By method](#method)
 
 <a name="Year"></a>
 ### By Year
@@ -952,6 +952,27 @@
     - [Chizpurfle: A Gray-Box Android Fuzzer for Vendor Service Customizations (ISSRE 2017)](#chizpurfle-a-gray-box-android-fuzzer-for-vendor-service-customizations-issre-2017)
     - [Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing (USENIX Security2022)](#fuzzware-using-precise-mmio-modeling-for-effective-firmware-fuzzing-usenix-security2022)
         - [Page Traffic Analysis](#page-traffic-analysis)
+
+
+
+<a name="Object"></a>
+### By object
+TBD.
+- **Source Code**
+- **Binary**
+- **Browser**
+- **Firmware**
+- **Neural Networks**
+
+<a name="method"></a>
+### By method
+TBD.
+- **Mutation**
+- **Scheduling**
+- **Monitor**
+- **Generate**
+- **Environmental Control**
+
 
 
 # Survey/Review
