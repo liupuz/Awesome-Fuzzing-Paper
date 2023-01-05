@@ -1,7 +1,7 @@
 # Recent Papers Related To Fuzzing
 
 
-# Survey/Review/SoK
+## Survey/Review/SoK
   - [Fuzzing: A Survey for Roadmap](#fuzzing-a-survey-for-roadmap)
   - [Fuzzing: Challenges and Reflections](#fuzzing-challenges-and-reflections)
   - [SoK: The Progress, Challenges, and Perspectives of Directed Greybox Fuzzing](#sok-the-progress-challenges-and-perspectives-of-directed-greybox-fuzzing)
@@ -16,8 +16,14 @@
   - [Survey of Software Fuzzing Techniques](#survey-of-software-fuzzing-techniques)
   - [A Review of Fuzzing Tools and Methods](#a-review-of-fuzzing-tools-and-methods)
   
-# Technical paper
+  
+## Technical paper
+### Indexing
+- By year
+- By object
+- By method
 
+### By Year
 - **ASE 2022**
   - [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing]
   - [Efficient Greybox Fuzzing to Detect Memory Errors]
